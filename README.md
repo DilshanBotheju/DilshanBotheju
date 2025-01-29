@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dilshanbotheju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshanbotheju" height="30" width="40" /></a>
-<a href="https://kaggle.com/dilshanbotheju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dilshanbotheju" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dilshan-botheju-903a7127b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshanbotheju" height="30" width="40" /></a>
+<a href="https://kaggle.com/dilshanbotheju03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dilshanbotheju" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
